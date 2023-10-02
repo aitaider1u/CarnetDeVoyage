@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="mapjfxRessource">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/carnetDeVoyage/ressources/mapjfxRessource/mapjfx-2.15.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/carnetDeVoyage/ressources/mapjfxRessource/slf4j-api-1.7.30.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
