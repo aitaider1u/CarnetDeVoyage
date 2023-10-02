@@ -1,5 +1,0 @@
- options La JVM utiliser lord de l'execution sont 
-
-	
-java --module-path  /usr/share/openjfx/lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.web  -jar carnet.jar 
-
